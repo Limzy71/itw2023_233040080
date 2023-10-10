@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    text-align: justify;
+}
+
+.container {
+    font-family: Georgia;
+}
+
+.h1 {
+    font-family: Comic Sans MS,Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: darkblue;
+}
+
+.h4 {
+    font-family: Georgia;
+    text-align: right;
+    font-style: italic;
+}
