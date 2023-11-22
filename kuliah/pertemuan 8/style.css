@@ -1,0 +1,17 @@
+.container {
+  width: 600px;
+  height: 600px;
+  border: 2px solid white;
+  margin: 120px auto;
+  background-color: #000;
+}
+
+
+.box {
+  border: 1px solid white;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin-top: 210px;
+  margin-left: 35px;
+}
